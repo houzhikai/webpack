@@ -1,0 +1,21 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "A markdown loader for webpack using markdown-it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "loader",
+    "webpack"
+  ],
+  "author": "hou",
+  "license": "ISC",
+  "dependencies": {
+    "loader-utils": "^2.0.0",
+    "markdown-it": "^12.0.4",
+    "schema-utils": "^3.0.0"
+  }
+}
